@@ -1,4 +1,4 @@
-//Exercícios: https://faithful-ptarmigan-b0c.notion.site/Exerc-cios-pt-1-84fad27ffd2c4eb582652250f7cd66c2
+//Exercícios pt.1: https://faithful-ptarmigan-b0c.notion.site/Exerc-cios-pt-1-84fad27ffd2c4eb582652250f7cd66c2
 
 var modelo = 'Fusca';
 var cor = 'azul';
